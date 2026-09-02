@@ -1,3 +1,3 @@
-this a simple chromium extension that will redirect any x.com links to xcancel.com
+This a simple Chromium extension that will redirect any x.com links to goyimx.com.
 
-xcancel.com is a great x.com front end if you don't have an x.com account
+goyimx.com is a great x.com frontend if you don't have an x.com account.
