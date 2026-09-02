@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "X.com Redirector",
   "version": "1.0",
-  "description": "Automatically redirects any x.com links to xcancel.com.",
+  "description": "Automatically redirects any x.com links to goyimx.com.",
   "permissions": ["declarativeNetRequest"],
   "host_permissions": ["*://x.com/*"],
   "declarative_net_request": {
