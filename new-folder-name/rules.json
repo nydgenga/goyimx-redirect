@@ -10,7 +10,8 @@
       "type": "redirect",
       "redirect": {
         "transform": {
-          "host": "xcancel.com"
+          "host": "goyimx.com",
+          "query": ""
         }
       }
     }
